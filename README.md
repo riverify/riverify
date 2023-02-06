@@ -78,6 +78,9 @@
 
 
 ## Connect with me  
+<a href="mailto:CryingRiver@foxmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="27" />
+</a>
 <a href="https://github.com/riverify" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
