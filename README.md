@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=riverify&&style=flat-square" align="left" />
+</div>  
+
 ## <div align="center">👋 Hi there, I'm Rivor Luo </div>  
 
 ### <div align="center">🛸I am still a college student,👨‍💻  shall receive my diploma in the year 2024. 🚀</div>  
@@ -12,7 +16,7 @@
 - 🌱 I’m currently learning everything .🤣  
   
 
-- 🏮My goal for 2023 is to study Java diligently and find a satisfactory job.  
+- 🏮My goal for 2023 is to study java diligently and find a satisfactory job.  
   
 
 - ⚡ Fun fact: Average person will spend six year of their life waiting for something.  
@@ -95,19 +99,11 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=riverify&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
@@ -115,5 +111,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
