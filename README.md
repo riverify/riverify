@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=riverify&&style=flat-square" align="left" />
 </div>  
 
-## <div align="center">👋 Hi there, I'm Rivor Luo </div>  
+## <div align="center"><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm Rivor Luo </div>  
 
 ### <div align="center">🛸I am still a college student,👨‍💻  shall receive my diploma in the year 2024. 🚀</div>  
   
