@@ -95,7 +95,7 @@
 ## Github Stats  
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverify&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverify&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riverify&theme=radical&card_width=419&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
