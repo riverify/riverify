@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning everything .🤣  
   
 
-- 🏮My goal for 2023 is to study java diligently and find a satisfactory job.  
+- 🏮My goal for 2024 is to find a satisfactory job.  
   
 
 - ⚡ Fun fact: Average person will spend six year of their life waiting for something.  
