@@ -11,13 +11,13 @@
   <img align="right" src="https://avatars.githubusercontent.com/u/97610640?v=4" width=90 />
 </a>
 
-- 🔭 I’m currently studying java and rust. ♨️   
+- 🔭 I’m currently studying godot engine. 🎮   
   
 
 - 🌱 I’m currently learning everything .🤣  
   
 
-- 🏮My goal for 2024 is to find a satisfactory job.  
+- 🏮My goal for 2024 is to have my bread.  
   
 
 - ⚡ Fun fact: Average person will spend six year of their life waiting for something.  
