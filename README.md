@@ -5,7 +5,7 @@
 
 ## <div align="center"><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm River Luo </div>  
 
-### <div align="center">🛸I am still a college student👨‍💻, shall receive my diploma in the year 2024. 🚀</div>  
+### <div align="center">🛸Nihongo wo benkyosimasu👨‍💻🚀</div>  
   
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://avatars.githubusercontent.com/u/97610640?v=4" width=90 />
