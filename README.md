@@ -5,7 +5,7 @@
 
 ## <div align="center"><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there, I'm River Luo </div>  
 
-### <div align="center">🛸Nihongo wo benkyosimasu👨‍💻🚀</div>  
+### <div align="center">🛸今日本語を勉強している👨‍💻🚀</div>  
   
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://avatars.githubusercontent.com/u/97610640?v=4" width=90 />
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning everything .🤣  
   
 
-- 🏮My goal for 2024 is to have my bread.  
+- 🏮My wish for 2025 is working in Japan successfully.  
   
 
 - ⚡ Fun fact: Average person will spend six year of their life waiting for something.  
