@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning everything .🤣  
   
 
-- 🏮My wish for 2025 is working in Japan successfully.  
+- 🏮My wish for 2025 is living healthier.  
   
 
 - ⚡ Fun fact: Average person will spend six year of their life waiting for something.  
